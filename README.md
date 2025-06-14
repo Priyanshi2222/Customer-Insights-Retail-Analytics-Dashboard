@@ -1,7 +1,7 @@
 # DataWareHouseAnalytics_Project
 Analyzed the dataset using SQL to clean data, explore patterns, and generate business insights. Focused on data structure, filtering, and aggregation to support decision-making.
 
-📊 Business Data Analysis Project: Bara Dataset
+📊 Business Data Analysis Project
 
 Welcome to the GitHub repository for my Business Data Analysis Project using the Sales Dataset. This project is part of an academic learning experience aimed at understanding the end-to-end process of analyzing business data using SQL.
 
